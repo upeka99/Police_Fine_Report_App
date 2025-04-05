@@ -68,12 +68,6 @@ This application is part of a university-level academic project designed to:
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here once available (Login screen, Home, Reports, Maps, etc.)_
-
----
-
 ## 🧪 How to Run
 
 1. Clone the repository:
